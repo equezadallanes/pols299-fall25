@@ -1,0 +1,29 @@
+---
+title: "Week 2: Secularization Theory"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 2 - Secularization Theory
+
+:::
+
+[//]: <> (Need to write intro)
+
+### Tuesday, September 2
+
+- Norris, Pippa, and Ronald Inglehart. 2011. "The Secularization Debate." In *Sacred and Secular: Religion and Politics Worldwide. 2nd ed.* Cambridge: Cambridge University Press. (Chapter 1). {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Norris, Pippa, and Ronald Inglehart. 2011. "The Puzzle of Secularization in the United States and Western Europe." In *Sacred and Secular: Religion and Politics Worldwide. 2nd ed.* Cambridge: Cambridge University Press. (Chapter 4). {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+### Thursday, September 4
+
+- Hoover Green, Amelia. 2013. "How to Read Political Science: A Guide in Four Steps." [{{< fa file-pdf >}}](https://calgara.github.io/Pol157_Spring2019/howtoread.pdf)
+
+- Brewer, Mark D., Rogan Kersh, and R. Eric Petersen. 2003. "Assessing Conventional Wisdom about Religion and Politics: A Preliminary View from the Pews." *Journal for the Scientific Study of Religion* 42(1): 125–36. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+
+- We will discuss the [Congregational Visit Paper](../assignment/congregational-visit.qmd)
+

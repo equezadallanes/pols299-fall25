@@ -1,0 +1,37 @@
+---
+title: "Week 13: The Nones"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 13 - The Nones
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, November 18
+
+- Hout, Michael, and Claude Fischer. 2014. "Explaining Why More Americans Have No Religious Preference: Political Backlash and Generational Succession, 1987-2012." *Sociological Science* 1: 423–47. [{{< fa file-pdf >}}](https://sociologicalscience.com/articles-vol1-24-423/)
+
+
+- Djupe, Paul A., Jacob R. Neiheisel, and Kimberly H. Conger. 2018. "Are the Politics of the Christian Right Linked to State Rates of the Nonreligious? The Importance of Salient Controversy." *Political Research Quarterly* 71(4): 910–22. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+### Thursday, November 20
+
+
+- Schwadel, Philip. 2020. "The Politics of Religious Nones." *Journal for the Scientific Study of Religion* 59(1): 180–89. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+
+- [Segment from *Full Frontal with Samantha Bee*](https://youtu.be/tlT2JCulIu8?si=4DakqvzvXcergq_2)
+
+
+- Cohen, Kate. October 3, 2023. ["America doesn't need more God. It needs more atheists."](https://www.washingtonpost.com/opinions/2023/10/03/kate-cohen-atheism/) *The Washington Post*
+
+
+
+
+

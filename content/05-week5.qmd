@@ -1,0 +1,32 @@
+---
+title: "Week 5: How Did We Get Here? Historical Context"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 5 - How Did We Get Here? Historical Context
+
+:::
+
+[//]: <> (Need to write intro)
+
+### Tuesday, September 23
+
+- Putnam, Robert and David Campbell. 2010. "Religiosity in America: Shock and Two Aftershocks." In *American Grace.* New York: Simon & Schuster. (Chapter 4: pp. 91-133). {{< fa book >}} {{< fa pen >}}
+
+
+
+### Thursday, September 25
+
+- Layman, Geoffrey. 2001. "Cultural Conflict in American Society and Politics." In *The Great Divide: Religious and Cultural Conflict in American Party Politics.* New York: Columbia University Press. (Introduction.) {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Layman, Geoffrey. 1997. "Religion and Political Behavior in the United States: The Impact of Beliefs, Affiliations, and Commitment From 1980 to 1994." *Public Opinion Quarterly* 61(2): 288–316. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+:::{.callout-important}
+
+### Deadline
+
+Front end of congregational visit paper due Friday, September 26, at 11:59pm on Canvas
+
+:::

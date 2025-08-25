@@ -1,0 +1,15 @@
+---
+title: "Week 8: Fall Break"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 8: Fall Break
+
+:::
+
+
+NO CLASS: 10/14 and 10/16
+
+
+

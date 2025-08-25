@@ -1,0 +1,71 @@
+---
+title: "Congregational Visit Paper"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 12pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      subtitle: | 
+        | POLS 299-F06: Religion in American Politics \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+## Deadlines
+
+1. Front-end of paper due Friday, September 26, at 11:59 pm on Canvas
+
+2. Full draft of paper for peer review due Friday, October 24, at 11:59 pm on Canvas
+
+3. Complete peer-review by Monday, October 27, at 11:59 pm.
+
+4. Final draft due Friday, October 31 at 11:59 pm on Canvas
+
+:::
+
+::: {.content-visible when-format="html"}
+[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](congregational-visit.pdf)
+:::
+
+
+## Purpose
+
+The goal of this assignment is to help you see how religious individuals may be exposed to religious cues within their congregation, specifically during a religious service. In addition to observing the real-world phenomena that we are interested in, you will also gain familiarity with how scholars record these observations for later analysis and how they report them in writing.
+
+
+## Task
+
+*Attend one religious service at a congregation from a religious tradition/denomination other than your own. Keep track of the number and types of political stimuli as well as the opportunities available for political engagement. Write a 4- to 6-page report (double-spaced, 12-point font, 1-inch margins) of what you observed.*
+
+As we read in the piece by Brewer, Kersh, and Petersen (2003), while religious services are not political events, this does not mean they do not include political stimuli. In fact, they find that the average service had 2.8 political messages (with a high of 9 and a low of 0). These observations, however, come from religious services from the late 1990s, and things may look quite different now than they did back then. Do religious individuals hear more political messages now than they did in 1998-99? Are the types of messages individuals hear more political or direct?
+
+
+To ensure that we can compare our data with the rest of the class, we will be using the same classification as Brewer et al. (2003). There are several ways you can record and code these messages. One way is to keep track of the content of the messages you hear and see and leave coding for a later time. In addition to this, you could record the audio from the service in case you want to double-check something from your notes.
+
+
+In your essay, provide some background information on the congregation you visited and the religious tradition/denomination they are affiliated with (if any). Then describe your findings using the classification of political messages described above. Make sure to be clear about how you are classifying the political cues and provide examples from your visits. Finally, reflect on whether your findings (i.e., the types and amount of political messages) fit with what you know about that religious tradition/denomination.
+
+
+## Criteria for Success
+
+A successful essay will:
+
+1. Include relevant background information on the congregation and its religious tradition.
+2. Use the classification scheme to discuss the observations from the two visits.
+3. Compare and contrast your findings and your previous knowledge and expectations.
+4. Have a clear introduction summarizing the main points of the essay.
+5. Have a coherent structure and no grammatical errors.
+6. Cite at least two readings from class.
+7. Citations should follow APSA's author-year formatting.
+
+
+## Resources
+
+You can find some helpful resources for this paper [here](../resource/paper1_resources.qmd).
+
+

@@ -1,0 +1,50 @@
+---
+title: "Week 9: Black Protestants and the Black Church"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 9 - Black Protestants and the Black Church
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, October 21
+
+- Harris, Fredrick C. 1999. "Blessed Assurance: Religion, Personal Involvement, and African-American Political Activism." In *Something within: Religion in African-American Political Activism.* New York: Oxford University Press. (Chapter 5) {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Harris, Fredrick C. 1999. "Rock in a Weary Land: Religious Institutions and African-American Political Activism." In *Something within: Religion in African-American Political Activism.* New York: Oxford University Press. (Chapter 6) {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- McDaniel, Eric L. 2013. "The Black Church and Defining the Political." *Politics, Groups and Identities* 1(1): 93–97. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+
+
+### Thursday, October 23
+
+- McClerking, Harwood K., and Eric L. McDaniel. 2005. "Belonging and Doing: Political Churches and Black Political Participation." *Political Psychology* 26(5): 721–34. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+- ["Where does the Black church fit in today’s Black Lives Matter movement?" *PBS*](https://www.pbs.org/newshour/nation/where-does-the-black-church-fit-in-todays-black-lives-matter-movement)
+
+- Mohamed, Besheer, and Kiana Cox. 2020. "Before Protests, Black Americans Said Religious Sermons Should Address Race Relations." *Pew Research Center.* [{{< fa link >}}](https://www.pewresearch.org/short-reads/2020/06/15/before-protests-black-americans-said-sermons-should-address-race-relations/)
+
+- Mohamed, Besheer, Kiana Cox, Jeff Diamant, and Claire Gecewicz. 2021. "Faith Among Black Americans." *Pew Research Center.* [{{< fa link >}}](https://www.pewresearch.org/religion/2021/02/16/faith-among-black-americans/)
+
+
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+Peer-review draft of congregational visit paper due Friday, October 24, at 11:59pm on Canvas.
+
+Must complete peer-review on Canvas by Monday, October 27, at 11:59 pm.
+
+:::
+
+

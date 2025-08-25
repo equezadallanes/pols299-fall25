@@ -1,0 +1,35 @@
+---
+title: "Week 1: Introduction and the Religious Landscape"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 1 - Introduction and the Religious Landscape
+
+:::
+
+
+### Tuesday, August 26
+
+- [Syllabus](../index.qmd)
+
+
+### Thursday, August 28
+
+- Wald, Kenneth and Allison Calhoun-Brown. 2011. "Religion in the American Context" In *Religion and Politics in the United States 6th Edition.* New York: Rowman & Littlefield. (Chapter 2). {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Smith, Gregory A., Alan Cooperman, Becka A. Alper, Besheer Mohamed, Chip Rotolo, Patricia Tevington, Justin Nortey, et al. 2025. "Decline of Christianity in the U.S. Has Slowed, May Have Leveled Off." *Pew Research Center.* [{{< fa link >}}](https://www.pewresearch.org/religion/2025/02/26/decline-of-christianity-in-the-us-has-slowed-may-have-leveled-off/)
+
+    - This report has a lot of different parts. Make sure to skim through all of them and take note of anything that catches your attention.
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Short reflection](../assignment/reflection.qmd) due Friday, August 29, at 11:59pm on Canvas
+
+:::
+
+

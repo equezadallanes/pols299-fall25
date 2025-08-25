@@ -1,0 +1,26 @@
+---
+title: "Week 12: Religious Minorities"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 12 - Religious Minorities
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, November 11
+
+- Hertzke, Allen D., Laura R. Olson, Kevin R. den Dulk, and Robert Booth Fowler. 2018. "Judaism, Islam, and Other Expressions of Religious Pluralism." *Religion and Politics in America: Faith, Culture, and Strategic Choices. 6th ed.* New York, NY: Routledge. (Chapter 4.) {{< fa file-pdf >}} 
+
+
+
+### Thursday, November 13
+
+- Lajevardi, Nazita. 2020. "Access Denied: Exploring Muslim American Representation and Exclusion by State Legislators." *Politics, Groups, and Identities* 8(5): 957–85. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Madrid, Raul, Jennifer L. Merolla, Aldo Yanez Ruiz, and Jean Reith Schroedel. 2022. "The Relevance of Religion for Political Office: Voter Bias Toward Candidates from Different Religious Backgrounds." *Political Behavior* 44(2): 981–1001. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+

@@ -1,0 +1,40 @@
+---
+title: "Week 14: From Politics to Religion"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 14 - From Politics to Religion
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, November 25
+
+- Margolis, Michele F. 2018. "How Politics Affects Religion: Partisanship, Socialization, and Religiosity in America." *Journal of Politics* 80(1): 30–43. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+- Margolis, Michele. 2018. "When Politicians Determine Your Religious Beliefs." *The New York Times.* [{{< fa newspaper >}}](https://www.nytimes.com/2018/07/11/opinion/religion-republican-democrat.html)
+
+
+- Burge, Ryan P. 2021. "Why 'Evangelical' Is Becoming Another Word for 'Republican'." *The New York Times.* [{{< fa newspaper >}}](https://www.nytimes.com/2021/10/26/opinion/evangelical-republican.html)
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+Full draft of op-ed due at the beginning of class. Submit on Canvas.
+
+:::
+
+
+
+### Thursday, November 27
+
+NO CLASS. Thanksgiving break.
+
+
+

@@ -1,0 +1,49 @@
+---
+title: "Week 15: A Religious Left?"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 15 - A Religious Left?
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, December 2
+
+- Baker, Joseph O, and Gerardo Martí. 2020. "Is the Religious Left Resurgent?" *Sociology of Religion* 81(2): 131–41. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+- Conger, Kimberly H. 2022. "Mobilizing the Religious Left: Linking the Movement to Individual Political Activity." *Politics and Religion* 15(1): 197–214. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+
+### Thursday, December 4
+
+
+- Olson, Laura R. 2017. "Collective Identity and Movement Solidarity among Religious Left Activists in the U.S." In *Religion and Progressive Activism: New Stories about Faith and Politics*, eds, Ruth Braunstein, Todd Nicholas Fuist, and Rhys H. Williams. New York: New York University Press, 97-114. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+Final draft of campaign memo due Friday, December 5, at 11:59pm on Canvas
+
+:::
+
+
+
+::: {.content-visible when-format="html"}
+
+---
+ 
+### Further Reading
+
+- Sager, Rebecca. 2017. "Progressive Religious Activists and Democratic Party Politics." In *Religion and Progressive Activism: New Stories about Faith and Politics*, eds, Ruth Braunstein, Todd Nicholas Fuist, and Rhys H. Williams. New York: New York University Press, 56-75. [{{< fa university >}}](https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=nlebk&AN=1367257&site=eds-live&scope=site&custid=asc1)
+
+
+:::

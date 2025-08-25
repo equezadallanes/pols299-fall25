@@ -1,0 +1,19 @@
+---
+title: "Final Exam"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Final Exam
+
+:::
+
+
+- Section 01: Thursday, December 11, 3:00-5:30 pm, Stein 316
+
+- Section 02: Monday, December 15, 3:00-5:30 pm, Stein 316
+
+
+
+
+

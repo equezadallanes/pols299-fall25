@@ -1,0 +1,51 @@
+---
+title: "Short Reflection"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POLS 299-F06: Religion in American Politics \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+
+## Deadline
+
+Due Friday, August 29, at 11:59 pm on Canvas.
+
+:::
+
+
+::: {.content-visible when-format="html"}
+[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](reflection.pdf)
+:::
+
+
+## Purpose
+
+The goal of this assignment is to help you think about how your own experiences and current knowledge inform what you know about the role religion plays in American politics.
+
+
+## Task
+
+Write a 2-page reflection (double-spaced, 12-point font, 1-inch margins) on your current view of the role religion plays in American politics. Discuss how your own experiences and knowledge inform that view.
+
+
+## Criteria for success
+
+A successful essay will:
+
+1. Have an effective lede (i.e., hook) and a clear thesis statement.
+2. Identify at least two concepts/ideas/information from class.
+3. Provide persuasive evidence for the argument.
+4. Use clear and concise language (avoid jargon).
+
+

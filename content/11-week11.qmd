@@ -1,0 +1,39 @@
+---
+title: "Week 11: White Christians and the Religious Right"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 11 - White Christians and the Religious Right
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, November 4
+
+- "The Evangelical Vote." *Throughline.* NPR. Podcast. [{{< fa podcast >}}](https://www.npr.org/2020/09/23/916048798/the-evangelical-vote})
+
+- Jones, Robert P. 2020. "Remembering: Christianity as the Conductor of White Supremacy." *White Too Long: The Legacy of White Supremacy in American Christianity.* Simon & Schuster. (Chapter 2: pp. 25-71.) {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+    - (Optional) Robert P. Jones and Terry Gross. *Fresh Air.* NPR. Podcast. [{{< fa podcast >}}](https://www.npr.org/2020/07/30/896712611/american-christianity-must-reckon-with-legacy-of-white-supremacy-author-says)
+
+
+
+### Thursday, November 6
+
+- Whitehead, Andrew L., and Samuel L. Perry. 2020. *Taking America Back for God: Christian Nationalism in the United States.* Oxford University Press. (Introduction: pp. 1-21). {{< fa brands dropbox title="Available on Dropbox folder" >}} 
+
+- Baker, Joseph O, Samuel L Perry, and Andrew L Whitehead. 2020. "Keep America Christian (and White): Christian Nationalism, Fear of Ethnoracial Outsiders, and Intention to Vote for Donald Trump in the 2020 Presidential Election." *Sociology of Religion* 81(3): 272–93. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+
+
+:::{.callout-important}
+
+### Deadline
+
+Topic for op-ed due Friday, November 7, at 11:59pm on Canvas
+
+:::
+

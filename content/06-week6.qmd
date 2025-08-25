@@ -1,0 +1,28 @@
+---
+title: "Week 6: How Religion Affects Politics"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 6 - How Religion Affects Politics
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, September 30
+
+- Smith, Gregory Allen. 2008. *Politics in the Parish: The Political Influence of Catholic Priests.* Washington, D.C: Georgetown University Press. (Read Introduction and Chapter 1). {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Djupe, Paul A., and Christopher P. Gilbert. 2009. "A Theory of Religious Influences on Political Behavior." In *The Political Influence of Churches.* New York: Cambridge University Press. (Introduction: pp 1-20.) {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+### Thursday, October 2
+
+- Smith, Gregory Allen. 2008. "The Influence of Priests on Parishioners' Politics in 2004." *Politics in the Parish: The Political Influence of Catholic Priests.* Washington, D.C: Georgetown University Press. (Chapter 5) {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+
+- We will discuss the data collection for the Congregational Visit Paper
+

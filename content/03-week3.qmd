@@ -1,0 +1,29 @@
+---
+title: "Week 3: The (Messy) Relationship Between Church and State"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 3 - The (Messy) Relationship Between Church and State
+
+:::
+
+[//]: <> (Need to write intro)
+
+### Tuesday, September 9
+
+- Gorski, Philip S. 2019. "The Civil Religious Tradition and Its Rivals." In *American Covenant: A History of Civil Religion from the Puritans to the Present.* Princeton: Princeton University Press. (Chapter 1) {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Gorski, Philip S. 2019. "The Hebraic Moment: The New England Puritans." In *American Covenant: A History of Civil Religion from the Puritans to the Present.* Princeton: Princeton University Press. (Chapter 2) {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+### Thursday, September 11
+
+- Bellah, Robert N. 1967. "Civil Religion in America." *Daedalus* 96 (1): 1–21. [{{< fa file-pdf >}}](https://doi.org/10.1162/001152605774431464)
+
+- Davis, Derek H. 2001. "Separation, Integration, and Accommodation: Religion and State in America in a Nutshell." *Journal of Church and State* 43: 5-17 {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+ 
+
+

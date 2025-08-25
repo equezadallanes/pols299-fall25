@@ -1,0 +1,29 @@
+author: Enrique Quezada-Llanes
+
+instructor:
+  name: Enrique Quezada-Llanes
+  name_no_title: Enrique Quezada-Llanes
+  email: equezada@holycross.edu
+  url: "https://www.equezadallanes.com"
+  twitter: oequezada
+  github: equezadallanes
+  office: "Fenwick Hall 323"
+  appointment_url: "https://calendar.app.google/UiAvTropmNqLwstz5"
+  
+course:
+  number: "POLS 299-F06"
+  semester: "Fall 2025"
+  days: "TuTh"
+  time1: "Section 01: 12:30 PM – 1:45 PM"
+  time2: "Section 02: 2:00 PM – 3:15 PM"
+  location: "Stein 316"
+  dates: "August 26–December 15, 2025"
+  url: "https://pols299.fall25.equezadallanes.com/"
+
+university:
+  name: College of the Holy Cross
+  url: "https://www.holycross.edu"
+
+school:
+  name: Department of Political Science
+  url: "https://www.holycross.edu/academics/program/political-science"

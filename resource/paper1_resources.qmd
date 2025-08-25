@@ -1,0 +1,42 @@
+---
+title: Resources for Congregational Visit Paper
+---
+
+## Anatomy of an Empirical Research Paper
+
+1. Introduction (establish what you are doing, the research question, and major conclusions)
+2. Literature Review (situate your work in a conversation)
+3. Theory (your explanation and expectations)
+4. Data and Methods (how you collect and analyze data)
+5. Results
+6. Discussion and conclusion
+
+## What Should this Paper Include?
+
+1. Introduction (establish what you are doing, the research question, and major conclusions)
+2. Importance of looking at congregational life
+3. Methodology (how are you tackling the initial question?)
+4. The congregation you are visiting and its religious tradition (provide some background on the congregation and its religious tradition - [use data](https://www.pewresearch.org/religion/religious-landscape-study/)
+5. Expectations (what do you think you will find?)
+6. Results (describe what you found during the service)
+7. Discussion (do your results match your initial expectations?)
+8. Conclusion (what do you think your results tell you about political stimuli in churches? Discuss limitations and ways to overcome them in future research)
+
+
+## Brewer et al.'s Classification
+
+To ensure that we can compare our data with the rest of the class, we will be using the same classification of Brewer et al. (2003). The classification is as follows: \\
+
+1. Category 1: passing/bland mentions of sociopolitical topics but no real engagement (not central to the service)
+2. Category 2: explicit mentions of sociopolitical topics but no call to action (e.g., prayers for elected officials)
+	  - 2SJ: Social justice messages, whether it be with a person-to-person or person-to-society focus
+	  - 2PM: Personal morality messages
+	  - General messages like prayers or divine guidance for government officials
+3. Category 3: explicit mentions of sociopolitical issues with explicit call to action
+		- 3P: Calls to political action (i.e., voting, contacting elected officials, attending a protest)
+		- 3S: Calls to social action (i.e., visiting the elderly, feeding the homeless, environmental work, etc.)
+		
+		
+## Classification of Protestant Denominations
+
+If you attend the religious service of a Protestant denomination, make sure to identify it as either mainline or evangelical Protestant. You can use [Pew's website](https://www.pewresearch.org/religion/2015/05/12/appendix-b-classification-of-protestant-denominations/) to help you classify it.

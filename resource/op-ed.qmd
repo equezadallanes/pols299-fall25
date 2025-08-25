@@ -1,0 +1,25 @@
+---
+title: "Writing an Op-ed"
+---
+
+While there is no single way to write an op-ed, the following structure may help you identify the different parts you need and a common way to organize them. This comes from [The OpEd Project](https://www.theopedproject.org/resources#structure), where you can find more information to guide you.
+
+1. Lede and news hook
+    - Grab your reader's attention using a recent news story that would be of interest to your audience
+2. Thesis statement
+3. Argument (with evidence; use many paragraphs)
+    - 1st point (use evidence)
+   - 2nd point (use evidence)
+    - 3rd point (use evidence)
+4. "To be sure" paragraph
+    - Address potential criticism.
+5. Conclusion
+    - Connect your conclusion back to the lede.
+
+
+## Example
+
+Margolis, Michele. 2018. "When Politicians Determine Your Religious Beliefs." *The New York Times.* [{{< fa arrow-up-right-from-square >}}](https://www.nytimes.com/2018/07/11/opinion/religion-republican-democrat.html)
+
+- This is an op-ed written by Michele Margolis, a political scientist at the University of Pennsylvania. In this op-ed she discusses her research to support her argument. Can you identify the argument? Where does it appear?
+

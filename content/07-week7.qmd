@@ -1,0 +1,27 @@
+---
+title: "Week 7: Mobilization and Vote Choice"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 7 - Mobilization and Vote Choice
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, October 7
+
+- Putnam, Robert and David Campbell. 2010. "Religion in American Politics." *American Grace.* New York: Simon & Schuster. (Chapter 11: pp. 369-418.) {{< fa book >}}
+
+- McDermott, Monika L. 2007. "Voting for Catholic Candidates: The Evolution of a Stereotype." *Social Science Quarterly* 88(4): 953–69. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+
+
+### Thursday, October 9
+
+- Midterm Exam in class.
+
+
+

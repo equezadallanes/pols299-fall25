@@ -1,0 +1,65 @@
+---
+title: "Op-ed"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      subtitle: | 
+        | POLS 299-F06: Religion in American Politics \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+
+## Deadlines
+
+1. Topic for op-ed due Friday, November 7, at 11:59 pm on Canvas
+
+2. Full draft for peer-review due Tuesday, November 25, at 11:59 pm on Canvas.
+
+3. Complete peer-review by Monday, December 1, at 11:59 pm.
+
+4. Final draft due Friday, December 5, at 11:59 pm on Canvas.
+
+:::
+
+
+::: {.content-visible when-format="html"}
+[<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](op-ed.pdf)
+:::
+
+
+## Purpose
+
+The goal of this assignment is to help you apply concepts and findings from the course material to a current event of your interest in American politics and to communicate your analysis and conclusions to a general audience.
+
+
+## Task
+
+Write an op-ed for [The Spire](https://hcspire.com/) on a topic related to the course (no actual submission to the paper necessary). Your op-ed may address a current policy debate, news story, or political science finding you think would help you and your peers understand contemporary American politics. The op-ed should be between 600-1,200 words (single-spaced, 12-point font, 1-inch margins). Use Times New Roman or Arial font.
+
+An op-ed is a short opinion piece intended for the general readership of a publication. Many academics write op-eds as a way to communicate their research to people outside their field that they believe could help illuminate an important political event.
+
+In your op-ed, make sure to include at least *two pieces of information* (e.g., concepts, ideas, frameworks, contextual information) that you learned in class and found particularly helpful for your understanding of this topic to make your argument.
+
+[Click here](../resource/op-ed.qmd) for more details about how to write an op-ed.
+
+Please include a word count under the title.
+
+
+## Criteria for success
+
+A successful essay will:
+
+1. Have an effective lede (i.e., hook) and a clear thesis statement.
+2. Identify at least two concepts/ideas/information from class.
+3. Provide persuasive evidence for the argument.
+4. Use clear and concise language (avoid jargon).
+
+

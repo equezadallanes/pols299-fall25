@@ -1,0 +1,46 @@
+---
+title: "Week 10: Latino Catholics and Protestants"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 10 - Latino Catholics and Protestants
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Tuesday, October 28
+
+- Leal, David L. 2010. "Religion and the Political and Civic Lives of Latinos." In *Religion and Democracy in the United States: Danger or Opportunity?* Alan Wolfe and Ira Katznelson (eds). Princeton, NJ: Princeton University Press. (Chapter 10: pp. 308-352.) {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
+
+
+
+### Thursday, October 30
+
+- Valenzuela, Ali Adam. 2014. "Tending the Flock: Latino Religious Commitments and Political Preferences." *Political Research Quarterly* 67(4): 930–42. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Wong, Janelle. 2018. "The Evangelical Vote and Race in the 2016 Presidential Election." *The Journal of Race, Ethnicity, and Politics* 3(1): 81–106. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- Axios. ["Hispanic Protestants are politically diverse, survey finds"](https://www.axios.com/2024/09/17/hispanic-protestants-public-religion-research-institute)
+
+
+:::{.callout-important}
+
+### Deadline
+
+Final draft of Congregational Visit Paper due Friday, October 31, at 11:59pm on Canvas
+
+:::
+
+
+::: {.content-visible when-format="html"}
+
+### In-class readings
+
+- PRRI. ["How Much Do Hispanics Differ in Their Support for LGBTQ Rights?"](https://www.prri.org/spotlight/how-much-do-hispanics-differ-in-their-support-for-lgbtq-rights/)
+
+
+
+:::
