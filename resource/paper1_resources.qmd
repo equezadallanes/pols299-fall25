@@ -13,13 +13,14 @@ title: Resources for Congregational Visit Paper
 
 ## What Should this Paper Include?
 
-1. Introduction (establish what you are doing, the research question, and major conclusions)
-2. Importance of looking at congregational life
+1. Introduction (establish what you are doing, the research question, and main findings and conclusions)
+2. Literature review (why is it important to study congregational life, what has previous work found)
 3. Methodology (how are you tackling the initial question?)
 4. The congregation you are visiting and its religious tradition (provide some background on the congregation and its religious tradition - [use data](https://www.pewresearch.org/religion/religious-landscape-study/)
-5. Expectations (what do you think you will find?)
+	- Clearly state what you expect to see and justify it.
+	- Write one or two explicit hypotheses.
 6. Results (describe what you found during the service)
-7. Discussion (do your results match your initial expectations?)
+7. Discussion (do your results match your initial expectations? if not, why do you think they didn't)
 8. Conclusion (what do you think your results tell you about political stimuli in churches? Discuss limitations and ways to overcome them in future research)
 
 
