@@ -21,7 +21,7 @@ title: "Week 4: The (Messy) Relationship Between Church and State (cont.)"
 
 ### Thursday, September 18
 
-- Hertzke, Allen D., Laura R. Olson, Kevin R. den Dulk, and Robert Booth Fowler. 2018. "Church and State in the Courts." In *Religion and Politics in America: Faith, Culture, and Strategic Choices. 6th ed.* New York, NY: Routledge. (Chapter 12) {{< fa brands dropbox title="Available on Dropbox folder" >}}
+- <s>Hertzke, Allen D., Laura R. Olson, Kevin R. den Dulk, and Robert Booth Fowler. 2018. "Church and State in the Courts." In *Religion and Politics in America: Faith, Culture, and Strategic Choices. 6th ed.* New York, NY: Routledge. (Chapter 12) </s> {{< fa brands dropbox title="Available on Dropbox folder" >}}
 
 
 - *NPR*. June 30, 2024. "How will Louisiana's Ten Commandments classroom requirements be funded and enforced?" [{{< fa newspaper >}}](https://www.npr.org/2024/06/30/nx-s1-5024117/louisiana-ten-commandments-classroom-requirement-how-funded-and-enforced)
