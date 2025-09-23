@@ -15,6 +15,19 @@ title: "Week 5: How Did We Get Here? Historical Context"
 - Putnam, Robert and David Campbell. 2010. "Religiosity in America: Shock and Two Aftershocks." In *American Grace.* New York: Simon & Schuster. (Chapter 4: pp. 91-133). {{< fa book >}} {{< fa pen >}}
 
 
+::: {.content-visible when-format="html"}
+
+#### For class
+
+- Pew Research Center. 2024. "Most religious ‘nones’ align with Democrats; Protestants, Catholics tend toward the Republicans." Report, April 5. [{{< fa link >}}](https://www.pewresearch.org/politics/2024/04/09/party-identification-among-religious-groups-and-religiously-unaffiliated-voters/pp_2024-4-9_partisan-coalitions_5-01-png/) 
+
+
+- Pew Research Center. 2024. "The Changing Demographic Composition of Voters and Party Coalitions." Report, April 7. [{{< fa link >}}](https://www.pewresearch.org/politics/2024/04/09/the-changing-demographic-composition-of-voters-and-party-coalitions/pp_2024-4-9_partisan-coalitions_8-05-png/)
+
+
+:::
+
+
 
 ### Thursday, September 25
 
