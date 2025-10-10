@@ -18,13 +18,15 @@ format:
 :::{.callout-important}
 ## Deadlines
 
+UPDATED:
+
 1. Front-end of paper due Friday, September 26, at 11:59 pm on Canvas
 
-2. Full draft of paper for peer review due Friday, October 24, at 11:59 pm on Canvas
+2. Full draft of paper for peer review due Friday, October 31, at 11:59 pm on Canvas
 
-3. Complete peer-review by Monday, October 27, at 11:59 pm.
+3. Complete peer-review by Monday, November 3, at 11:59 pm.
 
-4. Final draft due Friday, October 31 at 11:59 pm on Canvas
+4. Final draft due Friday, November 7, at 11:59 pm on Canvas
 
 :::
 

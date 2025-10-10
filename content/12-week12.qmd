@@ -24,3 +24,13 @@ title: "Week 12: Religious Minorities"
 - Madrid, Raul, Jennifer L. Merolla, Aldo Yanez Ruiz, and Jean Reith Schroedel. 2022. "The Relevance of Religion for Political Office: Voter Bias Toward Candidates from Different Religious Backgrounds." *Political Behavior* 44(2): 981–1001. {{< fa brands dropbox title="Available on Dropbox folder" >}} {{< fa pen >}}
 
 
+
+:::{.callout-important}
+
+### Deadline
+
+Topic for op-ed due Friday, November 14, at 11:59pm on Canvas
+
+:::
+
+
