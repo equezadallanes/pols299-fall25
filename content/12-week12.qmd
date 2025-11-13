@@ -25,6 +25,19 @@ title: "Week 12: Religious Minorities"
 
 
 
+::: {.content-visible when-format="html"}
+
+### In-class reading
+
+- PEW. 2025. ["Religious Landscape Study."](https://www.pewresearch.org/religious-landscape-study/)
+
+
+- PEW. 2025. ["Faith on the Hill: The religious composition of the 119th Congress"](https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/)
+
+:::
+
+
+
 :::{.callout-important}
 
 ### Deadline
