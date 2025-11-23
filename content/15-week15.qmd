@@ -26,6 +26,14 @@ title: "Week 15: A Religious Left?"
 - Olson, Laura R. 2017. "Collective Identity and Movement Solidarity among Religious Left Activists in the U.S." In *Religion and Progressive Activism: New Stories about Faith and Politics*, eds, Ruth Braunstein, Todd Nicholas Fuist, and Rhys H. Williams. New York: New York University Press, 97-114. {{< fa brands dropbox title="Available on Dropbox folder" >}}
 
 
+:::{.callout-important}
+
+### Deadline
+
+Final draft of op-ed due Friday, December 5, at 11:59 pm. Submit on Canvas.
+
+:::
+
 
 
 ::: {.content-visible when-format="html"}
